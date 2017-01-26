@@ -44,7 +44,7 @@ Dentro de las varias alternaitvas seleccione el paquete ZIP. Esto generará un a
 Descargue y abra el archivo. Entre por linea de comando a la carpeta donde se descargo el archivo y ejecute el siguiente comando para inicializar la aplicación de ionic:
 
 ```javascript
-ionic start pdam-1 sidemenu
+ionic start pdam_1 sidemenu
 ```
 Esto generara una aplicacion demo, se puede usar esta aplicacion y remplazar los archivos que se descargaron de ionic creator. Remplace los archivos que descargó e incluyalos indicados dentro de la carpeta www del proyecto que se genero en el comando anterior
 
