@@ -41,7 +41,7 @@ La herramienta provee la capacidad de crear el codigo necesario y funcional de l
 ![alt text](http://gabo.com.co/pdam/lab-01-03.png)
 
 Dentro de las varias alternaitvas seleccione el paquete ZIP. Esto generará un archivo descargable con la aplicación funcional.
-Descargue y abra el archivo. Entre por linea de comando a la carpeta donde se descargo el archivo y ejecute el siguiente comando para inicializar la aplicación de ionic:
+Descargue y abra el archivo. Entre por linea de comando a una nueva carpeta y ejecute el siguiente comando para inicializar la aplicación de ionic:
 
 ```javascript
 ionic start pdam_1 sidemenu
