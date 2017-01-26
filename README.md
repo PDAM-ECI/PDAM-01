@@ -33,5 +33,27 @@ En la vista de Edicion, agregue los componentes necesarios para que la vista que
 
 ![alt text](http://gabo.com.co/pdam/lab-01-02.png)
 
+Usando el modo preview, revise que la aplicacion haya quedado correctamente creada y que los menus y botones naveguen de manera correcta. Con este modo puede revisar el funcionamiento del prototipo.
+
+# Generación de la aplicación
+La herramienta provee la capacidad de crear el codigo necesario y funcional de las vistas creadas en el prototipo. Para usar esta herramienta ubique en la parte superior derecha el icono de Export your App. 
+
+![alt text](http://gabo.com.co/pdam/lab-01-03.png)
+
+Dentro de las varias alternaitvas seleccione el paquete ZIP. Esto generará un archivo descargable con la aplicación funcional.
+Descargue y abra el archivo. Entre por linea de comando a la carpeta donde se descargo el archivo y ejecute el siguiente comando para instalar las librerias necesarias de NodeJS y javascript:
+
+```javascript
+npm install
+bower install
+```
+
+ejectue el siguiente comando para probar la aplicación en modo explorador
+
+
+```javascript
+ionic serve
+```
+
 # Reto
-Investigue como crear una accion de slide sobre los elementos de la lista, esto con el fin de habilitar un boton de borrar una vez se haga slide sobre el elemento deseado. [Referencia](http://ionicframework.com/docs/api/directive/ionList/)
+* Investigue como crear una accion de slide sobre los elementos de la lista, esto con el fin de habilitar un boton de borrar una vez se haga slide sobre el elemento deseado. [Referencia](http://ionicframework.com/docs/api/directive/ionList/)
