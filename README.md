@@ -24,7 +24,7 @@ Teniendo la vista de inicio seleccionada, ubique el panel de la derecha en donde
 
 En la vista de Perfil agregue componentes y ordenelos hasta que quede como en el siguiente ejemplo:
 
-![alt text](https://gabo.com.co/pdam/lab-01-01.png)
+![alt text](http://gabo.com.co/pdam/lab-01-01.png)
 
 # Reto
 Investigue como crear una accion de slide sobre los elementos de la lista, esto con el fin de habilitar un boton de borrar una vez se haga slide sobre el elemento deseado. [Referencia](http://ionicframework.com/docs/api/directive/ionList/)
