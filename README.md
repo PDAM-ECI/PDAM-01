@@ -57,6 +57,7 @@ ionic serve
 Para probar la aplicación en un dispositivo real Android. Ejecute el siguiente comando.
 
 ```javascript
+ionic platform add android
 ionic build android
 ```
 
