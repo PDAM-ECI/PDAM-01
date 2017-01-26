@@ -50,10 +50,19 @@ bower install
 
 ejectue el siguiente comando para probar la aplicación en modo explorador
 
-
 ```javascript
 ionic serve
 ```
 
+Para probar la aplicación en un dispositivo real Android. Ejecute el siguiente comando.
+
+```javascript
+ionic build android
+```
+
+Esto generará un APK que podrá instalar en su dispositivo.
+
 # Reto
+* Investigue como instalar el APK en su telefono móvil
+* Investigue como adicionar elemenos nuevos al listado de prueba usando AngularJS
 * Investigue como crear una accion de slide sobre los elementos de la lista, esto con el fin de habilitar un boton de borrar una vez se haga slide sobre el elemento deseado. [Referencia](http://ionicframework.com/docs/api/directive/ionList/)
