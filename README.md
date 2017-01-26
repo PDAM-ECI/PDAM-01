@@ -41,12 +41,12 @@ La herramienta provee la capacidad de crear el codigo necesario y funcional de l
 ![alt text](http://gabo.com.co/pdam/lab-01-03.png)
 
 Dentro de las varias alternaitvas seleccione el paquete ZIP. Esto generará un archivo descargable con la aplicación funcional.
-Descargue y abra el archivo. Entre por linea de comando a la carpeta donde se descargo el archivo y ejecute el siguiente comando para instalar las librerias necesarias de NodeJS y javascript:
+Descargue y abra el archivo. Entre por linea de comando a la carpeta donde se descargo el archivo y ejecute el siguiente comando para inicializar la aplicación de ionic:
 
 ```javascript
-npm install
-bower install
+ionic start pdam-1 sidemenu
 ```
+Esto generara una aplicacion demo, se puede usar esta aplicacion y remplazar los archivos que se descargaron de ionic creator. Remplace los archivos que descargó e incluyalos indicados dentro de la carpeta www del proyecto que se genero en el comando anterior
 
 ejectue el siguiente comando para probar la aplicación en modo explorador
 
