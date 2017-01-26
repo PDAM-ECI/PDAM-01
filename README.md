@@ -26,5 +26,11 @@ En la vista de Perfil agregue componentes y ordenelos hasta que quede como en el
 
 ![alt text](http://gabo.com.co/pdam/lab-01-01.png)
 
+Ubique dentro del panel izquierdo la vista de Cloud, cambie el nombre por Edicion. A continuación entre a la vista de perfil y seleccione el boton de cambiar contraseña, en el panel de la derecha ubique la sección de link, dentro del selector seleccione la vista de Edicion. Esto hará que al hacer clic al botón se navegue a la sección deseada.
+
+En la vista de Edicion, agregue los componentes necesarios para que la vista quede como el siguiente ejemplo:
+
+![alt text](http://gabo.com.co/pdam/lab-01-02.png)
+
 # Reto
 Investigue como crear una accion de slide sobre los elementos de la lista, esto con el fin de habilitar un boton de borrar una vez se haga slide sobre el elemento deseado. [Referencia](http://ionicframework.com/docs/api/directive/ionList/)
