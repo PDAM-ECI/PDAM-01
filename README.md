@@ -17,6 +17,7 @@ Después de haber creado la cuenta debe ingresar y crear un nuevo proyecto. Al c
 El menu debe contener dos elementos:
 * Inicio
 * Perfil
+
 En la parte izquierda aparecen todas las vistas que tiene la aplicación, cambie el nombre de la vista Home por Inicio, y el de la vista
 Cart por Perfil. Es importante que tambien se ajuste la url "Routing URL" acorde al titulo de la vista, esto servirá de guía cuando se haga la generacion de código.
 Dentro de la vista de Inicio deberá estar la lista que contiene elementos "TODO" que el usuario ingresará y seran almacenados localmente, para crear una lista en esta vista, ubique al lado izquierdo en el panel de componentes, el componente de lista. Arrastre este componente a la vista de Inicio. Esto creará una lista con 3 elementos de prueba.
